@@ -25,7 +25,9 @@ Hier is een alfabetische lijstmet de namen van de straten.Beverstraat, die ligt 
  - Ja, ik heb hem gevonden. We bevinden onshier, op dit punt. Zie je, dit is de plaats
 waar we staan. Eerst rechtdoor, voorbij dat groene veld, de tweede straat links en dan de eerste straat rechts. Dat moeten we proberen teonthouden.
 
-#####################'
+######################################################
+######################################################
+######################################################
 
 - Madam, madam... Can you tell me where Beverstraat is?
 
